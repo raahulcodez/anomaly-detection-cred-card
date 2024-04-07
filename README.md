@@ -1,2 +1,2 @@
-# anomaly-detection-cred-card
-This Project determines anomalies in Financial Transactions using three different models namely: Logistic Regression, XG Boost, Decision Tree
+# DETECTING ANOMOLIES IN FINANCIAL TRASACTIONS
+This Project determines anomalies in Financial Transactions using three different machine learning models namely: Logistic Regression, XG Boost, Decision Tree
