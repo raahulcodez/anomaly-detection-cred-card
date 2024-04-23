@@ -1,6 +1,6 @@
 # **DETECTING ANOMALIES IN FINANCIAL TRANSACTIONS:**
 
-This project aims to detect anomalies in financial transactions using machine learning algorithms.
+This project aims to optimize and fortify each phase of fraud detection, significantly improving efficiency and accuracy. It aims to proactively prevent fraudulent transactions with a reduced utilization of resources. 
 
 ## **Goal**
 
